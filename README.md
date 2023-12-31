@@ -73,9 +73,11 @@ FULL SUBTRACTOR:
 
 ## Timing diagram:
 HALF SUBTRACTOR:
+
 ![hs wave](https://github.com/Rakshithajagadeesh07/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147081797/cc2a58bb-1563-4f99-80c6-5bf4f73c2db2)
 
 FULL SUBTRACTOR:
+
 ![fs wave](https://github.com/Rakshithajagadeesh07/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147081797/5d6054c1-40ad-45ef-9969-e50cf18f4473)
 
 
